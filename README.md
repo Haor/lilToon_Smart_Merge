@@ -42,8 +42,7 @@
 
 ## 演示
 
-<video src="https://github.com/Haor/lilToon_Smart_Merge/raw/refs/heads/main/usage_demo.mp4" controls width="600">
-</video>
+https://github.com/user-attachments/assets/9a0eae2e-6ba8-413b-af5f-9d732ea54372
 
 ## 操作说明
 
