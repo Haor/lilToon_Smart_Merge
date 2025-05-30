@@ -35,7 +35,7 @@
    - 使用 "Select All"、"Invert"、"Deselect All" 快速选择
 
 4. **执行操作**
-   - **Backup**: 备份选中的材质并创建克隆
+   - **Backup**: 备份选中的材质并创建克隆（出现[clone]标识的时候再进行下一步，如果备份后未出现请尝试刷新材质）
    - **Merge Parameters**: 智能合并参数（推荐）
    - **Overwrite**: 完全覆写参数
    - **Restore**: 恢复到原始材质
