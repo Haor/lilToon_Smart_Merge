@@ -40,6 +40,11 @@
    - **Overwrite**: 完全覆写参数
    - **Restore**: 恢复到原始材质
 
+## 演示
+
+<video src="https://github.com/Haor/lilToon_Smart_Merge/raw/refs/heads/main/usage_demo.mp4" controls width="600">
+</video>
+
 ## 操作说明
 
 ### Backup (备份)
